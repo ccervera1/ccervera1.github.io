@@ -1,0 +1,32 @@
+nav {
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+    font-family: 'Roboto Mono', sans-serif;
+    font-weight: bolder;
+}
+
+h2 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: bolder;
+}
+
+titleName {
+    font-family: 'Roboto', sans-serif;
+    font-weight: bolder;
+    font-size: 60px;
+}
+
+p {
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+}
+
+li {
+    font-family: 'Roboto', sans-serif;
+    font-size: 25px;
+}
+
+
+
