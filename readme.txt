@@ -10,14 +10,14 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 
 1. How many assignment points do you believe you completed (replace the *'s with your numbers)?
 
-*/10
-- */1 Readme
-- */2 Basic HTML content
-- */1 Basic CSS styling
-- */1 Advanced feature
-- */2 Responsive layout
-- */1 Passes validation checks
-- */2 Embraces spirit of the assignment
+13/14
+- 1/1 Readme
+- 3/3 Basic HTML content
+- 3/3 Basic CSS styling
+- 1/1 Advanced feature
+- 3/3 Responsive layout
+- 1/1 Passes validation checks
+- 1/2 Embraces spirit of the assignment
 
 2. What (a) basic features, (b) CSS features, and (c) advanced features did you include in your portfolio?
 
@@ -29,7 +29,8 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 
 (b) CSS features
     - Custom Font from Google fonts (Roboto/Roboto Mono with Sans-Serif Fallback)
-    - Use of Bootstrap Containers and Spacing Utility for indenting and displaying content
+    - Use of Bootstrap Containers for displaying content in an appealing manner
+    - Use of Bootstrap Spacing Utility for modifying padding and margins
 
 
 (c) Advanced features
@@ -46,8 +47,10 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 
 
 5. What classmates or other individuals did you consult as part of this assignment? What did you discuss?
-
+    Discussed with friends on what should traditionally be included in portfolio. Various student portfolios included
+    bios, skill sets, and projects
 
 
 6. Is there anything special we need to know in order to run your code?
+    N/A
 
